@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 
@@ -23,4 +22,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Licence
 [MIT](https://github.com/enescanyildiz/kodluyoruzilkrepo/blob/main/LICENSE)
-=======
+
