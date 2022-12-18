@@ -1,3 +1,4 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-```git clone https://github.com/enescanyildiz/kodluyoruzilkrepo.git```
+
+>```git clone https://github.com/enescanyildiz/kodluyoruzilkrepo.git```
