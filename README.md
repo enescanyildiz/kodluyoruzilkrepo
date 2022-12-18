@@ -2,8 +2,7 @@
 # Kodluyoruz Ilk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.
 
-
-RESİM
+![Repo](resim/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-12-18%20153014.png)
 
 ## Installation
 Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek.)
